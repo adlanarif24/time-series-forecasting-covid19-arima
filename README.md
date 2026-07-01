@@ -1,9 +1,5 @@
-COVID-19 is a deadly virus that has been around since December 2019, and the only way to reduce the spread of infections is by having more individuals vaccinated. Vaccination allows individuals to build immunity and protect themselves from serious infections and further complications caused by the virus. Despite the fact that no vaccine is 100% effective, all the existing vaccines have an efficacy rate ranging from 62% all the way up to 90%. 
-	
-	We are studying the rate of vaccinations in the United States and Canada to forecast and analyze the rate of vaccinations thus far versus the predicted forecast of the population that will be vaccinated in the upcoming years. With this information, we will be able to learn the country’s rate of approaching herd immunity and minimizing the spread of the virus. 
+Project Overview
 
-	In our regression analysis, we wanted to know what variables good predictors will be to forecast the number of vaccinations in the United States and Canada. To obtain the final model, we used backwards stepwise model comparison to determine which variables to include in the final model. To test if our final model is usable, we also used the final model to forecast and compared it to the actual data from the dataset.
+This project was completed for ACTS 430 – Actuarial Applications of Applied Statistics at the University of Nebraska–Lincoln.
 
-	In our time series analysis, we segregated the data individually in order to have a clear approach towards the individual country’s vaccination rate. We observed the time series plot before and after the adjustment of the beginning of the total vaccination for each country. After that, we had a look at the ACF and PACF plot to see the pattern and checked the stationarity of each model. We then fit the models according to their appropriate (p,d,q) model and do the model diagnostics on the residuals as the last step before forecasting. 
-
-To summarize the difference between the regression and time series models, we made a comparison and specified any significant observation that can be seen and ended our research with a conclusion and recommendation.  
+The objective was to forecast COVID-19 vaccination trends using classical time series forecasting techniques.
